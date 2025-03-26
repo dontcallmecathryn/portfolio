@@ -61,6 +61,7 @@ section{
 section img{
     width: auto;
     height: 347.5px;
+    box-shadow: 0 10px 10px 0 darkgray;
 
 }
 
@@ -90,6 +91,7 @@ section img{
 
 .posterimg{
     width: 25%;
+    box-shadow: 0 10px 10px 0 darkgray;
 }
 
 .desc{
@@ -97,4 +99,19 @@ section img{
     text-align: left;
     margin-left: auto;
     margin-right: auto;
+}
+
+.project2img img{
+    height: 470px;
+    box-shadow: 0 10px 10px 0 darkgray;
+}
+
+.memoirimg{
+    height: 750px;
+    box-shadow: 0 10px 10px 0 darkgray;
+}
+
+.magimg img{
+    height: 550px;
+    box-shadow: 0 10px 10px 0 darkgray;
 }
