@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&family=Slabo+13px&display=swap');
+
+body{
+    background-color: white;
+    /* display: block; */
+    text-align: center;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.id{
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    font-family: "Rubik", sans-serif;
+}
+
+header{
+    font-size: 1.067rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+p{
+    font-family: "Slabo 13px", serif;
+    font-size: 1rem;
+}
+
+h3{
+    font-family: "Rubik", sans-serif;
+    font-size: 1.25rem;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2.5%;
+}
+
+section img{
+    width: auto;
+    height: 347.5px;
+
+}
+
+/* .aboutsection{
+    
+} */
+
+.pic{
+    /* width: 50%; */
+    /* display: inline-block; */
+    /* margin-left: 15%; */
+}
+
+.bio{
+    display: block;
+    width: 50%;
+    text-align: left;
+}
+
+/* .bio h3{
+    text-align: center;
+} */
+
+.cvlink{
+    text-decoration: underline;
+}
+
+.posterimg{
+    width: 25%;
+}
+
+.desc{
+    width: 50%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
