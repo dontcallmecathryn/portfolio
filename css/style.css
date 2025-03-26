@@ -115,3 +115,13 @@ section img{
     height: 550px;
     box-shadow: 0 10px 10px 0 darkgray;
 }
+
+.merch {
+    height: 500px;
+    width: auto;
+    box-shadow: 0 10px 10px 0 darkgray;
+}
+
+iframe{
+    box-shadow: 0 10px 10px 0 darkgray;
+}
